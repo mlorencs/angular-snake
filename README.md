@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Available Scripts
 
-**Before running any scripts, make sure you have [npm]() installed on your machine and have installed dependencies:**
+**Before running any scripts, make sure you have [npm](https://www.npmjs.com/get-npm) installed on your machine and have installed dependencies:**
 
 ### `npm install`
 
@@ -24,25 +24,25 @@ Runs the dev server. Naviagte to `http://localhost:4200/`. The app will automati
 
 Generates a new component (you can also use `directive | pipe | service | class | guard | interface | enum | module`):
 
-`ng generate component component-name`
+### `ng generate component component-name`
 
 <br />
 
 Builds the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build:
 
-`ng build`
+### `ng build`
 
 <br />
 
 Executes the unit tests via [Karma](https://karma-runner.github.io):
 
-`ng test`
+### `ng test`
 
 <br />
 
 Executes the end-to-end tests via [Protractor](http://www.protractortest.org/):
 
-`ng e2e`
+### `ng e2e`
 
 <br />
 
